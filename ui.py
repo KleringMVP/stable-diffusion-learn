@@ -1,7 +1,3 @@
-# Code credits to 凉心半浅良心人
-# Has modified
-#似乎有点问题
-
 import os
 from IPython.display import clear_output
 from utils import StableDiffusionFriendlyPipeline, SuperResolutionPipeline
