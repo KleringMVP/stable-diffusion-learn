@@ -1,5 +1,3 @@
-#@title 开始!
-
 # 模型和权重加载都在这里,pipe 加载的权重,vae_path 加载的本体,如果第一次运行下面报错, 就重启内核重新运行一次
 from diffusers_paddle import StableDiffusionPipeline, StableDiffusionImg2ImgPipeline
 import paddle
